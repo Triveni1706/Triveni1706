@@ -1,107 +1,113 @@
 <div align="center">
 
-# ☾ 𝐓𝐫𝐢𝐯𝐞𝐧𝐢 𝐌𝐚𝐧𝐣𝐮𝐧𝐚𝐭𝐡
+# ✨ 𝐓𝐫𝐢𝐯𝐞𝐧𝐢 𝐌𝐚𝐧𝐣𝐮𝐧𝐚𝐭𝐡 ✨
 
-### ᴄʀᴇᴀᴛɪɴɢ ɪɴᴛᴇʟʟɪɢᴇɴᴛ sᴏʟᴜᴛɪᴏɴs ᴡɪᴛʜ ᴄᴏᴅᴇ & ᴄʀᴇᴀᴛɪᴠɪᴛʏ
+### AI Enthusiast • Developer • Problem Solver
 
-<img src="https://komarev.com/ghpvc/?username=Triveni1706&label=Visitors&color=7B68EE&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Triveni1706&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-```text
-AI • Machine Learning • Full Stack • Data Analytics • Cloud
-```
+## 🌟 About
+
+I enjoy transforming ideas into practical solutions through technology. My interests span Artificial Intelligence, Machine Learning, Full Stack Development, Data Analytics, and Cloud Technologies. I am constantly learning, building projects, and exploring innovative ways to solve real-world challenges.
 
 ---
 
-## 🌙 Overview
-
-Passionate about transforming ideas into impactful digital solutions through technology. I enjoy building intelligent applications, exploring innovative tools, and continuously learning across AI, software development, analytics, and cloud ecosystems.
-
----
-
-## 🔗 Reach Me
+## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="mailto:trivenimanjunath8@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/TriveniManjunath">
-<img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="www.linkedin.com/in/triveni-manjunath-03894b346">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/Triveni1706">
-<img src="https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Triveni1706">
-<img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-## ⚡ Arsenal
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,php&perline=6" />
+
+<br>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&perline=5" />
+
+<br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" />
+
+<br>
+
+### 🤖 AI / Machine Learning
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,keras,sklearn,numpy,pandas" />
+
+<br>
+
+### ☁️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,nginx,apache,vercel&perline=7" />
+
+<br>
+
+### 📊 Analytics & Design
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,canva" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Triveni1706&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript,php" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triveni1706&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,tensorflow,pytorch" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,jenkins,vercel,linux" />
-
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Triveni1706&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 GitHub Insights
+## 🚀 Featured Areas
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Triveni1706&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triveni1706&layout=compact&theme=midnight-purple&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Triveni1706&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
----
-
-## ✦ Interests
-
-```text
-▸ Artificial Intelligence & Machine Learning
-▸ Full Stack Web Development
-▸ Data Analytics & Visualization
-▸ Cloud & DevOps Technologies
-▸ Open Source & Real-World Projects
-```
+🔹 Artificial Intelligence & Machine Learning
+🔹 Full Stack Web Development
+🔹 Data Analytics & Visualization
+🔹 Cloud Computing & DevOps
+🔹 Open Source Learning
 
 ---
 
 <div align="center">
 
-### ✨ "Consistency and curiosity create meaningful innovation."
+### 💭 "Learning, Building, and Growing One Project at a Time."
 
-⭐ Thank you for visiting my profile
+⭐ Thanks for visiting my profile!
 
 </div>
