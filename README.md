@@ -40,7 +40,7 @@ I enjoy transforming ideas into practical solutions through technology. My inter
 
 ## ⚙️ Tech Stack
 
-<div align="center">
+<div>
 
 ### 💻 Programming Languages
 
@@ -62,19 +62,13 @@ I enjoy transforming ideas into practical solutions through technology. My inter
 
 ### 🤖 AI / Machine Learning
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,keras,sklearn,numpy,pandas" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,sklearn,numpy,pandas" />
 
 <br>
 
 ### ☁️ DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,nginx,apache,vercel&perline=7" />
-
-<br>
-
-### 📊 Analytics & Design
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,canva" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,nginx,vercel&perline=7" />
 
 </div>
 
